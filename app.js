@@ -23,3 +23,17 @@ function listaAmigos() {
         console.log(amigos[i]);
     }
 }
+
+function sortearAmigo() {
+    if (amigos.length == 0) {
+        alert("No hay amigos");
+    } else {
+        let indice = Math.floor(Math.random() * amigos.length);
+        let elegido = amigos[indice];
+        let elemento = document.getElementById("resultado");
+
+        elemento.innerHTML = elegido;
+    }
+}
+
+
