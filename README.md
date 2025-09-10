@@ -22,4 +22,4 @@ El propósito de esta aplicación es practicar el manejo del **DOM en JavaScript
 ## ▶️ Cómo usar
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Donpollo6916/amigo-secreto.git
+   git clone https://github.com/MarioPinsel/amigo-secreto.git
